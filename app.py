@@ -5,7 +5,7 @@ import json
 import re
 #---------------------------------------------------------------------------------------------------------------------
 
-Groq_api_key = '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'
+Groq_api_key = 'your_api_key'
 client =Groq(api_key=Groq_api_key)
 
 #--------------------------------------------------------------------------------------------------------------
