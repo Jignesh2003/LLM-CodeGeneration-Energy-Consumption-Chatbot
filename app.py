@@ -46,7 +46,7 @@ def generate_pandas_code(natural_language_question, df_info):
     and following are the column names in the dataset after preprocessing where as you can see that the index is set to datetime:
     {df_info_str}
 
-    Provide me with only python pandas code for below natural language questions, please only provide the pandas code:
+    Provide me with only python pandas code for below natural language questions, please only provide the pandas code which can provide the result when executed
     {natural_language_question}
     """
 
